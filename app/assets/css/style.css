@@ -30,3 +30,19 @@ body{
 .cabecalho__logo{
     width: 4rem;
 }
+
+.menu-lateral{
+    display: flex;
+    flex-direction: column;
+    background: #15191C;
+    width: 75vw;
+    height: 100vh;
+}
+.menu-lateral__logo{
+    align-self: center;
+    width: 7em;
+    padding: 2em;
+}
+.menu-lateral__links{
+    height: 3em;
+}
